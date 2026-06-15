@@ -21,12 +21,6 @@ terminal mode: online
 
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/status-online-0b0f14?style=flat-square&labelColor=0b0f14&color=00F5A0" alt="status online" />
-  <img src="https://img.shields.io/badge/focus-computer_vision-0b0f14?style=flat-square&labelColor=0b0f14&color=1d5b7a" alt="focus computer vision" />
-  <img src="https://img.shields.io/badge/mode-build_and_iterate-0b0f14?style=flat-square&labelColor=0b0f14&color=7AF0FF" alt="mode build and iterate" />
-</div>
-
 ## `$ whoami`
 
 I'm `ljk`, a builder who likes learning by shipping.
@@ -43,13 +37,6 @@ Right now I'm focused on AI, computer vision, data projects, and simple interfac
 
 ## `$ cat system_status.log`
 
-<div align="left">
-  <img src="https://img.shields.io/badge/runtime-online-0b0f14?style=flat-square&labelColor=0b0f14&color=00F5A0" alt="runtime online" />
-  <img src="https://img.shields.io/badge/vision-active-0b0f14?style=flat-square&labelColor=0b0f14&color=1d7fa1" alt="vision active" />
-  <img src="https://img.shields.io/badge/interfaces-building-0b0f14?style=flat-square&labelColor=0b0f14&color=7AF0FF" alt="interfaces building" />
-  <img src="https://img.shields.io/badge/public_work-queued-0b0f14?style=flat-square&labelColor=0b0f14&color=184a63" alt="public work queued" />
-</div>
-
 ```text
 signal trace:
 > training through real-world builds
@@ -59,12 +46,19 @@ signal trace:
 
 ## `$ ls featured_projects/`
 
+<div align="left">
+  <img src="https://img.shields.io/badge/featured-transskill-081018?style=for-the-badge&labelColor=081018&color=00F5A0" alt="featured transskill" />
+  <img src="https://img.shields.io/badge/active_focus-neon_track-081018?style=for-the-badge&labelColor=081018&color=7AF0FF" alt="active focus neon track" />
+</div>
+
 ```text
 transskill/
+├── primary signal
 ├── practical AI experimentation
 └── focused on useful, product-shaped workflows
 
 our-tour-system-project/
+├── secondary channel
 ├── intelligent travel recommendation system
 └── combining data logic with user-facing design
 ```
