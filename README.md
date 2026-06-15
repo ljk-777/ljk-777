@@ -1,11 +1,11 @@
 # `~/profile`
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0b0f14,35:12324a,70:1d5b7a,100:00F5A0&text=ljk%20terminal%20mode&fontColor=e5f0ff&font=JetBrains%20Mono&fontSize=30&animation=fadeIn&desc=AI%20%7C%20vision%20%7C%20product%20systems&descAlignY=68&descSize=14" alt="Profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:081018,28:102638,58:184a63,82:1d7fa1,100:7AF0FF&text=ljk%20%2F%2F%20terminal%20signal&fontColor=eaf7ff&font=JetBrains%20Mono&fontSize=31&animation=fadeIn&desc=computer%20vision%20%E2%80%A2%20practical%20AI%20%E2%80%A2%20product%20experiments&descAlignY=69&descSize=15" alt="Profile banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1200&color=7AF0FF&center=true&vCenter=true&width=900&lines=%24+boot;%24+whoami;%24+echo+%22future-facing+terminal+mode+enabled%22" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1200&color=7AF0FF&center=true&vCenter=true&width=900&lines=%24+boot;%24+init+signal;%24+echo+%22building+clearer+systems+from+curiosity%22" alt="Typing intro" />
 </div>
 
 <div align="center">
