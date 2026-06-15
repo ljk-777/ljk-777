@@ -1,29 +1,19 @@
 # `~/profile`
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=900&lines=%24+whoami;%24+echo+%22building+interfaces%2C+systems%2C+and+useful+weird+things%22;%24+tail+-f+./ideas.log" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1200&color=00F5A0&center=true&vCenter=true&width=900&lines=%24+boot;%24+whoami;%24+echo+%22future-facing+terminal+mode+enabled%22" alt="Typing intro" />
 </div>
 
 <div align="center">
 
 ```text
-┌──(ljk@github)-[~/build]
-└─$ whoami
-student builder exploring AI, vision, and useful internet experiments
-
-┌──(ljk@github)-[~/focus]
-└─$ cat now.txt
-- learning fast through hands-on projects
-- exploring computer vision, Kaggle, and web building
-- turning coursework and ideas into working demos
+┌──(ljk@github)-[~/console]
+└─$ boot
+initializing curiosity...
+loading vision / ml / product systems...
+terminal mode: online
 ```
 
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-0b0f14?style=for-the-badge&logo=gnubash&logoColor=00F5A0&labelColor=0b0f14&color=00F5A0" alt="Status badge" />
-  <img src="https://img.shields.io/badge/MODE-SHIPPING-0b0f14?style=for-the-badge&logo=githubactions&logoColor=7AF0FF&labelColor=0b0f14&color=7AF0FF" alt="Mode badge" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20TOOLS-0b0f14?style=for-the-badge&logo=openai&logoColor=22D3EE&labelColor=0b0f14&color=22D3EE" alt="Focus badge" />
 </div>
 
 ## `$ whoami`
@@ -40,12 +30,31 @@ Right now I'm focused on AI, computer vision, data projects, and simple interfac
 - open to: interesting technical collaborations and project ideas
 ```
 
+## `$ cat system_status.log`
+
+```text
+[online] studying through real projects
+[online] exploring computer vision and practical AI
+[online] building clean, usable interfaces
+[standby] publishing more work in public
+```
+
 ## `$ ls featured_projects/`
 
-| Project | What it is |
-| --- | --- |
-| [`transskill`](https://github.com/ljk-777/transskill) | A focused build that highlights your interest in practical AI and product-shaped experimentation. |
-| [`our-tour-system-project`](https://github.com/ljk-777/our-tour-system-project) | An intelligent travel recommendation system that brings together data, logic, and user-facing design. |
+```text
+transskill/
+├── practical AI experimentation
+└── focused on useful, product-shaped workflows
+
+our-tour-system-project/
+├── intelligent travel recommendation system
+└── combining data logic with user-facing design
+```
+
+<div align="left">
+  <a href="https://github.com/ljk-777/transskill">open ./featured_projects/transskill</a><br />
+  <a href="https://github.com/ljk-777/our-tour-system-project">open ./featured_projects/our-tour-system-project</a>
+</div>
 
 ## `$ cat stack.json`
 
@@ -61,6 +70,10 @@ Right now I'm focused on AI, computer vision, data projects, and simple interfac
 </div>
 
 ## `$ ./consume-contributions.sh`
+
+```text
+[running] contribution stream monitor
+```
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ljk-777/ljk-777/output/github-snake-dark.svg" alt="Contribution snake animation" />
