@@ -1,5 +1,9 @@
 # `~/profile`
 
+<div align="left">
+  <code style="color:#7AF0FF;">:: terminal signal active</code>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:081018,28:102638,58:184a63,82:1d7fa1,100:7AF0FF&text=ljk%20%2F%2F%20terminal%20signal&fontColor=eaf7ff&font=JetBrains%20Mono&fontSize=31&animation=fadeIn&desc=computer%20vision%20%E2%80%A2%20practical%20AI%20%E2%80%A2%20product%20experiments&descAlignY=69&descSize=15" alt="Profile banner" />
 </div>
