@@ -1,7 +1,7 @@
 # `~/profile`
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1800&pause=700&color=00F5A0&vCenter=true&width=320&height=24&lines=%3A%3A+terminal+signal+active" alt="terminal signal active" />
+  <img src="https://img.shields.io/badge/%3A%3A_terminal_signal_active-081018?style=for-the-badge&labelColor=081018&color=7AF0FF" alt="terminal signal active" />
 </div>
 
 <div align="center">
