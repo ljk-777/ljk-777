@@ -1,7 +1,7 @@
 # `~/profile`
 
 <div align="left">
-  <code style="color:#7AF0FF;">:: terminal signal active</code>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1800&pause=700&color=00F5A0&vCenter=true&width=320&height=24&lines=%3A%3A+terminal+signal+active" alt="terminal signal active" />
 </div>
 
 <div align="center">
