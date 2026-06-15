@@ -1,7 +1,7 @@
 # `~/profile`
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="Profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0b0f14,35:12324a,70:1d5b7a,100:00F5A0&text=ljk%20terminal%20mode&fontColor=e5f0ff&font=JetBrains%20Mono&fontSize=30&animation=fadeIn&desc=AI%20%7C%20vision%20%7C%20product%20systems&descAlignY=68&descSize=14" alt="Profile banner" />
 </div>
 
 <div align="center">
