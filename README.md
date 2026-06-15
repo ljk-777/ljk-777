@@ -62,9 +62,9 @@ Right now I'm focused on AI, computer vision, data projects, and simple interfac
 
 ## `$ ./consume-contributions.sh`
 
-```text
-[ pending ] contribution snake will come online after GitHub Actions is enabled
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ljk-777/ljk-777/output/github-snake-dark.svg" alt="Contribution snake animation" />
+</div>
 
 ## `$ grep -R "contact" ./`
 
