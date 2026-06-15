@@ -1,7 +1,11 @@
 # `~/profile`
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1200&color=00F5A0&center=true&vCenter=true&width=900&lines=%24+boot;%24+whoami;%24+echo+%22future-facing+terminal+mode+enabled%22" alt="Typing intro" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0b0f14,35:12324a,70:1d5b7a,100:00F5A0&text=ljk%20terminal%20mode&fontColor=e5f0ff&font=JetBrains%20Mono&fontSize=30&animation=fadeIn&desc=AI%20%7C%20vision%20%7C%20product%20systems&descAlignY=68&descSize=14" alt="Profile banner" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1200&color=7AF0FF&center=true&vCenter=true&width=900&lines=%24+boot;%24+whoami;%24+echo+%22future-facing+terminal+mode+enabled%22" alt="Typing intro" />
 </div>
 
 <div align="center">
@@ -11,9 +15,16 @@
 └─$ boot
 initializing curiosity...
 loading vision / ml / product systems...
+syncing ideas with code...
 terminal mode: online
 ```
 
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/status-online-0b0f14?style=flat-square&labelColor=0b0f14&color=00F5A0" alt="status online" />
+  <img src="https://img.shields.io/badge/focus-computer_vision-0b0f14?style=flat-square&labelColor=0b0f14&color=1d5b7a" alt="focus computer vision" />
+  <img src="https://img.shields.io/badge/mode-build_and_iterate-0b0f14?style=flat-square&labelColor=0b0f14&color=7AF0FF" alt="mode build and iterate" />
 </div>
 
 ## `$ whoami`
@@ -37,6 +48,7 @@ Right now I'm focused on AI, computer vision, data projects, and simple interfac
 [online] exploring computer vision and practical AI
 [online] building clean, usable interfaces
 [standby] publishing more work in public
+[queued] shipping sharper public demos
 ```
 
 ## `$ ls featured_projects/`
@@ -62,14 +74,14 @@ our-tour-system-project/
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,go,postgres,docker,git,vscode&theme=dark" alt="Tech stack icons" />
 </div>
 
-## `$ github-stats --show`
+## `$ watch -n 1 system.metrics`
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ljk-777&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=00F5A0&text_color=e5f0ff&icon_color=7AF0FF&ring_color=22D3EE" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljk-777&layout=compact&hide_border=true&bg_color=0b0f14&title_color=00F5A0&text_color=e5f0ff" alt="Top languages" />
 </div>
 
-## `$ ./consume-contributions.sh`
+## `$ tail -f contribution-stream.log`
 
 ```text
 [running] contribution stream monitor
