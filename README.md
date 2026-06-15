@@ -43,12 +43,18 @@ Right now I'm focused on AI, computer vision, data projects, and simple interfac
 
 ## `$ cat system_status.log`
 
+<div align="left">
+  <img src="https://img.shields.io/badge/runtime-online-0b0f14?style=flat-square&labelColor=0b0f14&color=00F5A0" alt="runtime online" />
+  <img src="https://img.shields.io/badge/vision-active-0b0f14?style=flat-square&labelColor=0b0f14&color=1d7fa1" alt="vision active" />
+  <img src="https://img.shields.io/badge/interfaces-building-0b0f14?style=flat-square&labelColor=0b0f14&color=7AF0FF" alt="interfaces building" />
+  <img src="https://img.shields.io/badge/public_work-queued-0b0f14?style=flat-square&labelColor=0b0f14&color=184a63" alt="public work queued" />
+</div>
+
 ```text
-[online] studying through real projects
-[online] exploring computer vision and practical AI
-[online] building clean, usable interfaces
-[standby] publishing more work in public
-[queued] shipping sharper public demos
+signal trace:
+> training through real-world builds
+> exploring computer vision / practical AI
+> shaping cleaner systems and public demos
 ```
 
 ## `$ ls featured_projects/`
