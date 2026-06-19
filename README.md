@@ -33,9 +33,9 @@ Right now I'm focused on AI, computer vision, data projects, and simple interfac
 ## `$ cat now.txt`
 
 ```text
-- building: SPAN and small ML experiments
+- building: transskill and small ML experiments
 - exploring: PyTorch, feature engineering, and practical AI workflows
-- learning: deeper model training and full-stack product thinking
+- learning: cleaner product thinking and stronger model intuition
 - open to: interesting technical collaborations and project ideas
 ```
 
@@ -47,6 +47,14 @@ signal trace:
 > exploring computer vision / practical AI
 > shaping cleaner systems and public demos
 ```
+
+## `$ cat build.log`
+
+<!-- build-log:start -->
+```text
+[loading] awaiting next signal pulse
+```
+<!-- build-log:end -->
 
 ## `$ ls featured_projects/`
 

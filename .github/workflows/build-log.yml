@@ -1,0 +1,101 @@
+name: Update Build Log
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch recent public activity
+        env:
+          PROFILE_USER: ljk-777
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -fsSL \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+            "https://api.github.com/users/${PROFILE_USER}/events/public?per_page=12" \
+            -o /tmp/build-log-events.json
+
+      - name: Render build log into README
+        env:
+          PROFILE_USER: ljk-777
+        run: |
+          python3 <<'PY'
+          import json
+          from pathlib import Path
+
+          events = json.loads(Path("/tmp/build-log-events.json").read_text())
+
+          def describe(event):
+              repo = event.get("repo", {}).get("name", "unknown/repo")
+              kind = event.get("type", "")
+              payload = event.get("payload", {})
+              created = event.get("created_at", "")[:10]
+
+              if kind == "PushEvent":
+                  size = payload.get("size", 0)
+                  noun = "commit" if size == 1 else "commits"
+                  return f"[{created}] pushed {size} {noun} to {repo}"
+              if kind == "CreateEvent":
+                  ref_type = payload.get("ref_type", "resource")
+                  ref = payload.get("ref") or repo.split("/")[-1]
+                  return f"[{created}] created {ref_type} {ref} in {repo}"
+              if kind == "WatchEvent":
+                  return f"[{created}] starred {repo}"
+              if kind == "ForkEvent":
+                  return f"[{created}] forked {repo}"
+              if kind == "IssuesEvent":
+                  action = payload.get("action", "updated")
+                  return f"[{created}] {action} an issue in {repo}"
+              if kind == "PullRequestEvent":
+                  action = payload.get("action", "updated")
+                  return f"[{created}] {action} a pull request in {repo}"
+              return f"[{created}] activity detected in {repo}"
+
+          lines = []
+          seen = set()
+          for event in events:
+              line = describe(event)
+              if line in seen:
+                  continue
+              seen.add(line)
+              lines.append(line)
+              if len(lines) == 4:
+                  break
+
+          if not lines:
+              lines = ["[standby] no public activity detected yet"]
+
+          block = "```text\n" + "\n".join(lines) + "\n```"
+
+          readme = Path("README.md")
+          text = readme.read_text()
+          start = "<!-- build-log:start -->"
+          end = "<!-- build-log:end -->"
+          before, rest = text.split(start, 1)
+          _, after = rest.split(end, 1)
+          readme.write_text(before + start + "\n" + block + "\n" + end + after)
+          PY
+
+      - name: Commit updated build log
+        run: |
+          if git diff --quiet README.md; then
+            echo "No build log changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update build log"
+          git push
