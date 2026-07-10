@@ -5,9 +5,17 @@
 </div>
 
 <div align="center">
+  <img src="./assets/banner.svg" alt="Profile banner" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1200&color=7AF0FF&center=true&vCenter=true&width=900&lines=%24+boot;%24+init+signal;%24+echo+%22building+clearer+systems+from+curiosity%22" alt="Typing intro" />
+</div>
+
+<div align="center">
 
 ```text
-┌──(ljk@github)-[~/terminal]
+┌──(ljk@github)-[~/console]
 └─$ boot
 initializing curiosity...
 loading vision / ml / product systems...
@@ -53,6 +61,11 @@ signal trace:
 
 ## `$ ls featured_projects/`
 
+<div align="left">
+  <img src="https://img.shields.io/badge/featured-transskill-081018?style=for-the-badge&labelColor=081018&color=00F5A0" alt="featured transskill" />
+  <img src="https://img.shields.io/badge/active_focus-neon_track-081018?style=for-the-badge&labelColor=081018&color=7AF0FF" alt="active focus neon track" />
+</div>
+
 ```text
 transskill/
 ├── primary signal
@@ -72,29 +85,25 @@ our-tour-system-project/
 
 ## `$ cat stack.json`
 
-```json
-{
-  "languages": ["Python", "JavaScript", "TypeScript", "Go"],
-  "focus": ["PyTorch", "computer vision", "product workflows"],
-  "tools": ["Git", "Docker", "Postgres", "React", "Next.js"]
-}
-```
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,go,postgres,docker,git,vscode&theme=dark" alt="Tech stack icons" />
+</div>
 
 ## `$ watch -n 1 system.metrics`
 
-```text
-render.status      stable
-profile.mode       terminal-first
-featured.target    transskill
-activity.stream    build.log + public contributions
-```
+<div align="center">
+  <img src="./assets/metrics.svg" alt="Profile metrics panel" />
+</div>
 
 ## `$ tail -f contribution-stream.log`
 
 ```text
 [running] contribution stream monitor
-[note] public activity remains visible on the GitHub contribution graph
 ```
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ljk-777/ljk-777/output/github-snake-dark.svg" alt="Contribution snake animation" />
+</div>
 
 ## `$ grep -R "contact" ./`
 
