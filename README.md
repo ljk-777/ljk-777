@@ -52,10 +52,10 @@ signal trace:
 
 <!-- build-log:start -->
 ```text
+[2026-07-09] starred agicy/buptLab-digital_design
 [2026-07-08] starred liangkangnan/tinyriscv
 [2026-07-06] starred jason-n-tran/wordle-fpga
 [2026-06-21] starred penpot/penpot
-[2026-06-20] activity detected in ljk-777/our-tour-system-project
 ```
 <!-- build-log:end -->
 
