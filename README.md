@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:081018,28:102638,58:184a63,82:1d7fa1,100:7AF0FF&text=ljk%20%2F%2F%20terminal%20signal&fontColor=eaf7ff&font=JetBrains%20Mono&fontSize=31&animation=fadeIn&desc=computer%20vision%20%E2%80%A2%20practical%20AI%20%E2%80%A2%20product%20experiments&descAlignY=69&descSize=15" alt="Profile banner" />
+  <img src="./assets/banner.svg" alt="Profile banner" />
 </div>
 
 <div align="center">
@@ -92,8 +92,7 @@ our-tour-system-project/
 ## `$ watch -n 1 system.metrics`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ljk-777&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=00F5A0&text_color=e5f0ff&icon_color=7AF0FF&ring_color=22D3EE" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljk-777&layout=compact&hide_border=true&bg_color=0b0f14&title_color=00F5A0&text_color=e5f0ff" alt="Top languages" />
+  <img src="./assets/metrics.svg" alt="Profile metrics panel" />
 </div>
 
 ## `$ tail -f contribution-stream.log`
