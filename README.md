@@ -54,7 +54,6 @@ signal trace:
 ```text
 [2026-07-20] starred sylvestf/LIBERO-plus
 [2026-07-18] starred FenggSh1q1ng/rv32i_pipeline_minisys
-[2026-07-13] starred mk-1304/Half-Precision_FPU
 ```
 <!-- build-log:end -->
 
