@@ -53,7 +53,6 @@ signal trace:
 <!-- build-log:start -->
 ```text
 [2026-07-20] starred sylvestf/LIBERO-plus
-[2026-07-18] starred FenggSh1q1ng/rv32i_pipeline_minisys
 ```
 <!-- build-log:end -->
 
