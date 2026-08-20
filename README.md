@@ -52,7 +52,7 @@ signal trace:
 
 <!-- build-log:start -->
 ```text
-[2026-07-20] starred sylvestf/LIBERO-plus
+[standby] no public activity detected yet
 ```
 <!-- build-log:end -->
 
