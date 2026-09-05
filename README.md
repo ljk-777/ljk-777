@@ -52,6 +52,7 @@ signal trace:
 
 <!-- build-log:start -->
 ```text
+[2026-09-04] starred bohyy/academic-ai-prompt
 [2026-08-31] starred XiaoDuoYa/codex-with-chatgpt
 ```
 <!-- build-log:end -->
