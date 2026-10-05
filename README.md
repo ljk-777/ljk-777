@@ -54,7 +54,6 @@ signal trace:
 ```text
 [2026-09-21] starred MLNLP-World/Academic-Resume-Template
 [2026-09-19] starred starVLA/starVLA
-[2026-09-04] starred bohyy/academic-ai-prompt
 ```
 <!-- build-log:end -->
 
