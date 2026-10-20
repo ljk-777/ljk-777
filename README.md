@@ -53,7 +53,6 @@ signal trace:
 <!-- build-log:start -->
 ```text
 [2026-09-21] starred MLNLP-World/Academic-Resume-Template
-[2026-09-19] starred starVLA/starVLA
 ```
 <!-- build-log:end -->
 
