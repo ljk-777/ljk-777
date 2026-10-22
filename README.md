@@ -52,7 +52,7 @@ signal trace:
 
 <!-- build-log:start -->
 ```text
-[2026-09-21] starred MLNLP-World/Academic-Resume-Template
+[standby] no public activity detected yet
 ```
 <!-- build-log:end -->
 
