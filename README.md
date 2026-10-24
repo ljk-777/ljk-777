@@ -52,7 +52,7 @@ signal trace:
 
 <!-- build-log:start -->
 ```text
-[standby] no public activity detected yet
+[2026-10-23] starred jeongeun980906/ReCAP-Cosmos-Policy
 ```
 <!-- build-log:end -->
 
