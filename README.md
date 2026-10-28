@@ -52,6 +52,7 @@ signal trace:
 
 <!-- build-log:start -->
 ```text
+[2026-10-27] starred AllenWang2005/Word-typesetting
 [2026-10-23] starred jeongeun980906/ReCAP-Cosmos-Policy
 ```
 <!-- build-log:end -->
