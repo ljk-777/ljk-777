@@ -52,10 +52,10 @@ signal trace:
 
 <!-- build-log:start -->
 ```text
+[2026-11-02] created branch feat/h2-online-training in MAS-W-415/MineCombat
+[2026-11-02] pushed 0 commits to MAS-W-415/MineCombat
+[2026-11-02] created branch feat/tactical-rewards in MAS-W-415/MineCombat
 [2026-11-01] pushed 0 commits to MAS-W-415/MineCombat
-[2026-11-02] merged a pull request in MAS-W-415/MineCombat
-[2026-11-02] opened a pull request in MAS-W-415/MineCombat
-[2026-10-31] created branch feat/conditioned-vpt in MAS-W-415/MineCombat
 ```
 <!-- build-log:end -->
 
