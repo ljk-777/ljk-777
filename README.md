@@ -1,117 +1,64 @@
-# `~/profile`
+# <samp>~/projects</samp>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/%3A%3A_terminal_signal_active-081018?style=for-the-badge&labelColor=081018&color=7AF0FF" alt="terminal signal active" />
-</div>
+<sub><em>Selected work by Jiakun Li</em></sub>
 
-<div align="center">
-  <img src="./assets/banner.svg" alt="Profile banner" />
-</div>
+<h3>
+  <a href="https://github.com/ljk-777/transskill">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-titles/transskill-dark.svg" />
+      <img src="./assets/project-titles/transskill-light.svg" alt="transskill/" width="136" height="28" />
+    </picture>
+  </a>
+</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1200&color=7AF0FF&center=true&vCenter=true&width=900&lines=%24+boot;%24+init+signal;%24+echo+%22building+clearer+systems+from+curiosity%22" alt="Typing intro" />
-</div>
+A CLI for discovering, auditing, installing, and converting AI agent skills across platforms.<br /><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-details/transskill-dark.svg" /><img src="./assets/project-details/transskill-light.svg" alt="AI tooling · CLI · Skill conversion" width="189" /></picture>
 
-<div align="center">
+<h3>
+  <a href="https://github.com/MAS-W-415/MineCombat">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-titles/MineCombat-dark.svg" />
+      <img src="./assets/project-titles/MineCombat-light.svg" alt="MineCombat/" width="136" height="28" />
+    </picture>
+  </a>
+</h3>
 
-```text
-┌──(ljk@github)-[~/console]
-└─$ boot
-initializing curiosity...
-loading vision / ml / product systems...
-syncing ideas with code...
-terminal mode: online
-```
+Curriculum reinforcement learning for Minecraft combat, built on MineStudio and VPT with PPO fine-tuning.<br /><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-details/MineCombat-dark.svg" /><img src="./assets/project-details/MineCombat-light.svg" alt="Team project · Python · Reinforcement learning" width="275" /></picture>
 
-</div>
+<h3>
+  <a href="https://github.com/FenggSh1q1ng/rv32i_pipeline_minisys">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-titles/rv32i_pipeline_minisys-dark.svg" />
+      <img src="./assets/project-titles/rv32i_pipeline_minisys-light.svg" alt="rv32i_pipeline_minisys/" width="280" height="28" />
+    </picture>
+  </a>
+</h3>
 
-## `$ whoami`
+A five-stage pipelined RISC-V SoC for the Minisys FPGA board, with a data cache, branch prediction, and a handwritten-digit calculator demo.<br /><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-details/rv32i_pipeline_minisys-dark.svg" /><img src="./assets/project-details/rv32i_pipeline_minisys-light.svg" alt="Team project · Verilog · RISC-V · FPGA" width="225" /></picture>
 
-I'm `ljk`, a builder who likes learning by shipping.
-Right now I'm focused on AI, computer vision, data projects, and simple interfaces that make ideas tangible.
+<h3>
+  <a href="https://github.com/ljk-777/our-tour-system-project">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-titles/waylog-dark.svg" />
+      <img src="./assets/project-titles/waylog-light.svg" alt="waylog/" width="88" height="28" />
+    </picture>
+  </a>
+</h3>
 
-## `$ cat now.txt`
+A travel recommendation and planning system combining route-finding algorithms, a 3D globe, and AI-assisted trip planning.<br /><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-details/waylog-dark.svg" /><img src="./assets/project-details/waylog-light.svg" alt="Course project · React · Node.js · PostgreSQL" width="267" /></picture>
 
-```text
-- building: transskill and small ML experiments
-- exploring: PyTorch, feature engineering, and practical AI workflows
-- learning: cleaner product thinking and stronger model intuition
-- open to: interesting technical collaborations and project ideas
-```
+## <samp>$ cat stack.json</samp>
 
-## `$ cat system_status.log`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+  <img src="./assets/stack-light.svg" alt="TypeScript, JavaScript, React, Next.js, Node.js, Python, Go, PostgreSQL, Docker, Git, VS Code, PyTorch, Vite, Express, Three.js, Tailwind CSS, Hugging Face, Ray, Weights &amp; Biases" width="442" />
+</picture>
 
-```text
-signal trace:
-> training through real-world builds
-> exploring computer vision / practical AI
-> shaping cleaner systems and public demos
-```
+---
 
-## `$ cat build.log`
+<samp>~/contributions</samp>
 
-<!-- build-log:start -->
-```text
-[2026-11-16] pushed 0 commits to MAS-W-415/MineCombat
-[2026-11-16] created branch feat/closed-loop-search in MAS-W-415/MineCombat
-[2026-11-16] merged a pull request in MAS-W-415/MineCombat
-[2026-11-16] opened a pull request in MAS-W-415/MineCombat
-```
-<!-- build-log:end -->
-
-## `$ ls featured_projects/`
-
-<div align="left">
-  <img src="https://img.shields.io/badge/featured-transskill-081018?style=for-the-badge&labelColor=081018&color=00F5A0" alt="featured transskill" />
-  <img src="https://img.shields.io/badge/active_focus-neon_track-081018?style=for-the-badge&labelColor=081018&color=7AF0FF" alt="active focus neon track" />
-</div>
-
-```text
-transskill/
-├── primary signal
-├── practical AI experimentation
-└── focused on useful, product-shaped workflows
-
-our-tour-system-project/
-├── secondary channel
-├── intelligent travel recommendation system
-└── combining data logic with user-facing design
-```
-
-<div align="left">
-  <a href="https://github.com/ljk-777/transskill">open ./featured_projects/transskill</a><br />
-  <a href="https://github.com/ljk-777/our-tour-system-project">open ./featured_projects/our-tour-system-project</a>
-</div>
-
-## `$ cat stack.json`
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,go,postgres,docker,git,vscode&theme=dark" alt="Tech stack icons" />
-</div>
-
-## `$ watch -n 1 system.metrics`
-
-<div align="center">
-  <img src="./assets/metrics.svg" alt="Profile metrics panel" />
-</div>
-
-## `$ tail -f contribution-stream.log`
-
-```text
-[running] contribution stream monitor
-```
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ljk-777/ljk-777/output/github-snake-dark.svg" alt="Contribution snake animation" />
-</div>
-
-## `$ grep -R "contact" ./`
-
-```text
-email    -> ljk21202@gmail.com
-github   -> https://github.com/ljk-777
-```
-
-<div align="center">
-  <sub>Profile theme: terminal mode, future-facing, and built around real projects.</sub>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ljk-777/ljk-777/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ljk-777/ljk-777/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ljk-777/ljk-777/output/github-snake.svg" width="100%" />
+</picture>
