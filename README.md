@@ -14,6 +14,17 @@
 A CLI for discovering, auditing, installing, and converting AI agent skills across platforms.<br /><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-details/transskill-dark.svg" /><img src="./assets/project-details/transskill-light.svg" alt="AI tooling · CLI · Skill conversion" width="189" /></picture>
 
 <h3>
+  <a href="https://github.com/ljk-777/GUI-Recover">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-titles/GUI-Recover-dark.svg" />
+      <img src="./assets/project-titles/GUI-Recover-light.svg" alt="GUI-Recover/" width="148" height="28" />
+    </picture>
+  </a>
+</h3>
+
+A toolkit for detecting and recovering from visual GUI agent errors, with reproducible evaluations on MiniWoB++ and VisualWebArena.<br /><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-details/GUI-Recover-dark.svg" /><img src="./assets/project-details/GUI-Recover-light.svg" alt="Python · GUI agents · Error recovery" width="214" /></picture>
+
+<h3>
   <a href="https://github.com/MAS-W-415/MineCombat">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/project-titles/MineCombat-dark.svg" />
